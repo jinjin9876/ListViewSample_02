@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="color_array_red">
+        <item>#FFEBEE</item>
+        <item>#FFCDD2</item>
+        <item>#EF9A9A</item>
+        <item>#E57373</item>
+        <item>#EF5350</item>
+        <item>#F44336</item>
+        <item>#E53935</item>
+        <item>#D32F2F</item>
+        <item>#C62828</item>
+        <item>#B71C1C</item>
+    </string-array>
+
+    <string-array name="color_array_pink">
+        <item>#FCE4EC</item>
+        <item>#F8BBD0</item>
+        <item>#F48FB1</item>
+        <item>#F06292</item>
+        <item>#EC407A</item>
+        <item>#E91E63</item>
+        <item>#D81B60</item>
+        <item>#C2185B</item>
+        <item>#AD1457</item>
+        <item>#880E4F</item>
+    </string-array>
+
+    <string-array name="color_array_purple">
+        <item>#F3E5F5</item>
+        <item>#E1BEE7</item>
+        <item>#CE93D8</item>
+        <item>#BA68C8</item>
+        <item>#AB47BC</item>
+        <item>#9C27B0</item>
+        <item>#8E24AA</item>
+        <item>#7B1FA2</item>
+        <item>#6A1B9A</item>
+        <item>#4A148C</item>
+    </string-array>
+
+
+</resources>
